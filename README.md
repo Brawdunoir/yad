@@ -1,0 +1,2 @@
+# yad
+Yet Another Dashboard
